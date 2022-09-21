@@ -37,7 +37,7 @@ button{
 }
 
 button:hover{
-    transition: all 0.5s easy-in-out;
+    transition: all 0.5s;
     background: #fff;
     border: solid 1px #fff;
     color: coral;
