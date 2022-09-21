@@ -16,7 +16,7 @@ window.onload = function(){
     }
 
     buttonStop.onclick= function(){
-        clearInterval(Intervak)
+        clearInterval(Interval)
     }
 
     buttonReset.onclick = function(){
